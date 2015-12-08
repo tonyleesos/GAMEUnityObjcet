@@ -10,7 +10,8 @@ public class SerialLight : MonoBehaviour {
 	
 	public float maxValue = 700;
 	public float minValue = 200;
-	
+	public int a;
+
 	public Transform cameraContainer;
 	
 	float currentValue = 0.0f;
