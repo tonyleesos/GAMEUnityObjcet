@@ -7,7 +7,7 @@ public class controller : MonoBehaviour {
 	public int maxEnemyCount=6;
 	public GameObject enemy;
 
-	public Transform Tran_CreatPoint;//物件要生成的位置
+	
 	public Vector3 V3_Random;//隨機生成位置
 
 	// Use this for initialization
